@@ -1,4 +1,4 @@
-Branchについて
+merge
 
 git merge A(branch_name) B(branch_name)
 Recentry branch has priority.

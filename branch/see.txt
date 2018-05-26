@@ -1,0 +1,4 @@
+see:
+local: git branch
+remote: git branch --remote
+both: git branch --all

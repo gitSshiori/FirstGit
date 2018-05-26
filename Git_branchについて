@@ -1,4 +1,4 @@
 Git Branchについて
 
 git merge A(branch_name) B(branch_name)
-で、Bに結合される
+Recentry branch has priority.

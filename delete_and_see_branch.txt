@@ -15,6 +15,7 @@ or git push origin :branch_name
 I think push maybe mean accessing to remote and origin branch_name mean that remote folder: origin/branch_name.
 ":" mean minus.
 "--" mean option command.
+* when correcting remote, not "branch" but "push"
 
 
 

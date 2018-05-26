@@ -1,4 +1,0 @@
-git log
-git show
-
-...check log

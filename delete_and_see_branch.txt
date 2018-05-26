@@ -1,0 +1,14 @@
+see:
+local: git branch
+remote: git branch --remote
+both: git branch --all
+
+delete:
+local:
+fr git push origin :branch_name
+
+I think push maybe mean accessing to remote and origin branch_name mean that remote folder: origin/branch_name.
+
+remote:
+
+
